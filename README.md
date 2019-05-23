@@ -1,2 +1,2 @@
 # Ruby_On_Rails_HelloApp
-Simple application based on Ruby on Rails!
+Simple application that prints "Hello World!" based on Ruby on Rails!
